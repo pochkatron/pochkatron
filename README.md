@@ -66,9 +66,9 @@ I care about **object-oriented design**, readable code, separation of concerns, 
 - **Development workflow:** Gradle builds, Docker-based environments, Git, API documentation, and automated testing using JUnit and Testcontainers.
 - **Computer science fundamentals:** data structures, algorithms, software architecture, and problem solving.
 
-## Featured project
+### 🚘 Car Dealership Backend
 
-### 🚗 Car Showroom — Java Backend Platform
+[🔗 View Project on GitHub](https://github.com/pochkatron/car-dealership-backend)
 
 A backend application for car dealership operations, designed around **two Spring Boot services**: an order service and a storage service. The application covers vehicle and parts management, orders, and related business workflows.
 
