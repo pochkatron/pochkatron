@@ -81,7 +81,6 @@ The project brings together REST API design, PostgreSQL persistence, secure acce
 - gRPC service integration and RabbitMQ event messaging
 - Gradle multi-module build and automated test tooling
 
-> Repository link will be added here after the public portfolio copy is published.
 
 ## What I'm focusing on
 
